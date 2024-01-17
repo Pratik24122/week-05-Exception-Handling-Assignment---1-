@@ -1,0 +1,31 @@
+2023-12-16 22:24:58,243 root INFO The Q3 is runnin
+2023-12-16 22:24:58,243 root ERROR [Errno 2] No such file or directory: 'test.txt'
+2023-12-16 22:25:35,370 root INFO The Q3 is running.
+2023-12-16 22:25:35,370 root ERROR [Errno 2] No such file or directory: 'test.txt'
+2023-12-16 22:26:26,436 root INFO The Q3 is running.
+2023-12-16 22:26:26,437 root ERROR [Errno 2] No such file or directory: 'test.txt'
+2023-12-16 22:28:55,705 root INFO The Q4 is being executed.
+2023-12-16 22:29:01,627 root INFO The Q4 is executed.
+2023-12-16 22:29:27,706 root INFO The Q4 is being executed.
+2023-12-16 22:29:30,455 root ERROR division by zero
+2023-12-16 22:41:32,153 root INFO The Q4(try & else) is being executed.
+2023-12-16 22:41:36,401 root ERROR division by zero
+2023-12-16 22:41:41,353 root INFO The Q4(try & else) is being executed.
+2023-12-16 22:41:43,936 root INFO The Q4(try & else) is executed.
+2023-12-16 23:03:34,740 root INFO The Q2 is being executed.
+2023-12-16 23:04:04,443 root INFO The Q3 is running.
+2023-12-16 23:04:04,444 root ERROR [Errno 2] No such file or directory: 'test.txt'
+2023-12-16 23:04:21,879 root INFO The Q4(try & else) is being executed.
+2023-12-16 23:04:30,182 root INFO Output : 5.0)
+2023-12-16 23:04:30,182 root INFO The Q4(try & else) is executed.
+2023-12-16 23:05:03,270 root INFO The Q4(try & else) is being executed.
+2023-12-16 23:05:05,714 root ERROR division by zero
+2023-12-16 23:05:31,519 root INFO The Q4(finally) is being executed.
+2023-12-16 23:06:21,671 root INFO Output : 5.0
+2023-12-16 23:06:21,671 root INFO The Q4(finally) executed.
+2023-12-16 23:06:55,141 root INFO The Q4(finally) is being executed.
+2023-12-16 23:07:01,338 root ERROR division by zero
+2023-12-16 23:07:20,577 root INFO The Q4(raise) is being executed.
+2023-12-16 23:07:32,311 root ERROR division by zero
+2023-12-16 23:07:50,531 root INFO The Q6 is being executed.
+2023-12-16 23:07:55,873 root ERROR Input cannot be empty.
